@@ -1,0 +1,8 @@
+{
+  "name": "game-embedding",
+  "version": "not-installed",
+  "path": "models/game-embedding.onnx",
+  "inputSize": 224,
+  "embeddingDimensions": 128,
+  "installed": false
+}
